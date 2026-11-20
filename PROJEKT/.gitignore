@@ -1,0 +1,55 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+
+# Environment and secrets
+.env
+!.env.example
+
+# OS and Editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Logs and runtime artifacts
+*.log
+*.pid
+
+# ETL dynamic data files (keep directory structure)
+etl/data/inbox/*
+etl/data/processed/*
+etl/data/failed/*
+!etl/data/inbox/.gitkeep
+!etl/data/processed/.gitkeep
+!etl/data/failed/.gitkeep
+
+*.py[cod]
+*$py.class
+*.egg-info/
+
+# Environment and secrets
+.env
+!.env.example
+
+# OS and Editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Logs and runtime artifacts
+*.log
+*.pid
+
+# ETL dynamic data files (keep directory structure)
+etl/data/inbox/*
+etl/data/processed/*
+etl/data/failed/*
+!etl/data/inbox/.gitkeep
+!etl/data/processed/.gitkeep
+!etl/data/failed/.gitkeep
