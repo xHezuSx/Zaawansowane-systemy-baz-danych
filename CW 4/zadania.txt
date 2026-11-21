@@ -1,0 +1,23 @@
+ 
+
+    Stwórz ranking pracowników oparty na wysokości pensji. Jeśli dwie osoby mają tę samą pensję, powinny otrzymać ten sam numer. 
+
+    Dodaj kolumnę, która pokazuje całkowitą sumę pensji wszystkich pracowników, ale bez grupowania ich. 
+
+    Dla każdego pracownika wypisz: nazwisko, nazwę produktu, skumulowaną wartość sprzedaży dla pracownika, ranking wartości sprzedaży względem wszystkich zamówień. Skorzystaj dodatkowo z tabeli sales oraz products. 
+
+    Dla każdego wiersza z tabeli sales wypisać nazwisko pracownika, nazwę produktu, cenę produktu, liczbę transakcji dla danego produktu tego dnia, sumę zapłaconą danego dnia za produkt, poprzednią cenę oraz kolejną cenę danego produktu. 
+
+    Dla każdego wiersza wypisać nazwę produktu, cenę produktu, sumę całkowitą zapłaconą w danym miesiącu oraz sumę rosnącą zapłaconą w danym miesiącu za konkretny produkt. 
+
+    Wypisać obok siebie cenę produktu z roku 2022 i roku 2023 z tego samego dnia oraz dodatkowo różnicę pomiędzy cenami tych produktów oraz dodatkowo nazwę produktu i jego kategorię. 
+
+    Dla każdego wiersza wypisać nazwę kategorii produktu, nazwę produktu, jego cenę, minimalną cenę w danej kategorii, maksymalną cenę w danej kategorii, różnicę między maksymalną a minimalną ceną. 
+
+    Dla każdego wiersza wypisz  nazwę produktu i średnią kroczącą ceny (biorącą pod uwagę poprzednią, bieżącą i następną cenę) tego produktu według kolejnych dat 
+
+    Dla każdego wiersza nazwę produktu, kategorię oraz ranking cen wewnątrz kategorii, ponumerowane wiersze wewnątrz kategorii w zależności od ceny oraz ranking gęsty (dense) cen wewnątrz kategorii. 
+
+    Dla każdego wiersza tabeli sales nazwisko  pracownika, nazwa produktu, wartość rosnąca jego sprzedaży według dat (cena produktu * ilość) dla danego pracownika oraz ranking wartości sprzedaży dla kolejnych wierszy globalnie według wartości zamówienia. 
+
+    Nie używając funkcji okienkowych wyświetl: Imiona i nazwiska pracowników oraz ich stanowisko, którzy uczestniczyli w sprzedaży. 
